@@ -43,3 +43,6 @@ a#s{
 	background-color:#c7ffdc;
 	text-decoration:none;
 }
+@media screen and (min-width:769px)and (max-width:1024px){
+    flex-direction:column;
+}  
