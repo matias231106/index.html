@@ -1,0 +1,11 @@
+form{
+   background-color:#78f48f;
+   font-size:15px;
+   padding-left: 30px;
+   padding-bottom: 20px;
+   padding-top:40px;
+   width:400px;
+   height:auto;
+   display:flex;
+   flex-direction:column;
+}  
